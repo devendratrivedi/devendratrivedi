@@ -11,4 +11,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/dt-devendratrivedi/
 
       E-Portfolio   : https://eportfolio.greatlearning.in/trivedi-devendra-prakash
-<a1 href='https://eportfolio.greatlearning.in/trivedi-devendra-prakash'> GL<a1>
+<a1 src='https://eportfolio.greatlearning.in/trivedi-devendra-prakash'> GL</a1>
