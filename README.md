@@ -2,7 +2,7 @@
 
 - 💻 I'm looking for an job in Machine Learning domain
 
-- 🌱 I’m currently learning from GreatLearning & Kaggle & GreatLearning
+- 🌱 I’m currently learning from GreatLearning & Kaggle
 
 - 👯 I’m open to collaborate on various domain projects
 
